@@ -1,0 +1,9 @@
+name: NewCommands
+version: '${project.version}'
+main: org.s4l1.s4l1.NewCommands
+api-version: '1.16'
+commands:
+  heal:
+  teleportonhighestposition:
+  addhp:
+  subtracthp:
